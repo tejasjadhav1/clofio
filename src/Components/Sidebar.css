@@ -1,0 +1,37 @@
+.sidebar {
+    background-color: #a2edf4;
+    width: 30px;
+    padding: 20px;
+    height: 689px;
+  }
+
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+
+  
+.cloud{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.cubes{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    object-fit: contain;
+    background-color: rgb(248, 206, 243);
+    margin-top: 280px;
+    font-size: larger;
+    padding: 8px;
+    border-radius : 20px; 
+    border: solid black 1px;
+    float: left;
+}

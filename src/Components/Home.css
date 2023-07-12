@@ -1,0 +1,27 @@
+.Header{
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    width: 100vh;
+}
+
+.Name{
+    margin-left: 10px;
+    margin-top: 4px;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.row{
+    border: solid black;
+    height: 80px;
+    margin-top: 800px;
+    display: flex;
+    width: 80%;
+}
+  
+.body{
+    display: flex;
+    flex-direction: column;
+}

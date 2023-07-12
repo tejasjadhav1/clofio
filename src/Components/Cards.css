@@ -1,0 +1,41 @@
+.card-row {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    margin-top: 70px;
+    position: relative;
+  }
+  
+  .card {
+    margin-left: 60px;
+    margin-right: 30px;
+    width: 280px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: #f5f5f5;
+  }
+  
+  .card.green {
+    background-color: green;
+    color: white;
+  }
+  
+  .card.blue {
+    background-color: blue;
+    color: white;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-description {
+    font-size: 14px;
+  }
+
+  
+
+
+  
