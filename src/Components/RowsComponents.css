@@ -1,0 +1,32 @@
+.rows_component{
+    margin-top: 20px;
+    width: 96%;
+    margin-left: 40px;
+}
+
+.table{
+    width: 100%;
+    border: 1px solid black;
+    border-spacing: 0 1rem;
+    border-radius: 4px;
+}
+
+.table tr:nth-child(1){
+    /* background-color: red; */
+    line-height: 20px;
+}
+
+.table_heading_row{
+    outline: 1px solid gray;
+
+}
+
+.heading{
+   width: 30%;
+   margin: 0;
+}
+
+.table_container2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
