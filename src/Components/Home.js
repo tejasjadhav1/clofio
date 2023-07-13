@@ -13,7 +13,7 @@ function Header() {
             <p>Hi, Jennie Moss</p>
           </div>
           <Cards/>
-          <h1>Gkjasbhbd</h1>
+          <RowsComponent/>
         </div>
        
         
